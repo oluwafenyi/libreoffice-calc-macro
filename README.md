@@ -17,6 +17,6 @@ This reaches out to the [YH Finance API](https://rapidapi.com/apidojo/api/yh-fin
 * Navigate to your libreoffice user path. For linux, you can find it at `~/.config/libreoffice/4/user/Scripts` by default.
 * create a `python` directory at this location if it does not already exist.
 * copy the `util.py` file to the newly created directory, you should have the file at this path: `~/.config/libreoffice/4/user/Scripts/python/util.py`
-* You should now how access to the getprice() function in LibreOffice Calc.
+* You should now have access to the getprice() function in LibreOffice Calc.
 
 ![result](images/result.gif)
